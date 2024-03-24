@@ -1,0 +1,24 @@
+@charset "UTF-8";
+body{
+	color:#333333;
+	text-align:center;
+	background:linear-gradient(to right,#E75480,#AF1457);
+	background:cover;
+}
+img{
+	justify-content:center;
+	height:40%;
+	width:40%;
+}	
+
+input,button{
+	size:60px;
+	font-size:40px;
+	border:5% solid black;
+	border-radius:5px;
+}
+
+button:hover{
+	color:black;
+	font-size:50px;
+}
